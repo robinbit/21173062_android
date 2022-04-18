@@ -14,3 +14,8 @@
  <img width="" height="" src="./pic/이미지1.png"></img>
  <img width="" height="" src="./pic/이미지2.png"></img>
  <img width="" height="" src="./pic/이미지3.png"></img>
+
+# 6주차(2022-04-12)
+- bitmap & 스크롤뷰
+ <img width="" height="" src="./pic/넓이.png"></img>
+ <img width="" height="" src="./pic/높이.png"></img>
