@@ -19,3 +19,13 @@
 - bitmap & 스크롤뷰
  <img width="" height="" src="./pic/넓이.png"></img>
  <img width="" height="" src="./pic/높이.png"></img>
+
+# 10주차(2022-05-10)
+- 여러 화면 만들고 화면 간 전환하기
+ <img width="" height="" src="./pic/21173062_이한빛.png"></img>
+ <img width="" height="" src="./pic/21173062_이한빛2.png"></img>
+ <img width="" height="" src="./pic/21173062_이한빛3.png"></img>
+ <img width="" height="" src="./pic/21173062_이한빛4.png"></img>
+ <img width="" height="" src="./pic/21173062_이한빛5.png"></img>
+ <img width="" height="" src="./pic/21173062_이한빛6.png"></img>
+ <img width="" height="" src="./pic/21173062_이한빛7.png"></img>
